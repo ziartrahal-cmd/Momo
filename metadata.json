@@ -1,0 +1,6 @@
+{
+  "name": "مكتب الأدوات الذكية",
+  "description": "مساحة عمل ويب عربية تجمع مساعد Gemini التفاعلي مع دليل منظم لمنصات الذكاء الاصطناعي والويب ومفكرة شخصية للملاحظات والأوامر.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
